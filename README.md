@@ -7,7 +7,7 @@
 - 🇸🇬 Living in Singapore 
 - 🇲🇾 Grew up in Malaysia 
 - 🏫 Went to college for Marketing & Advertising Design
-- 👩🏻‍💻 Makerting Executive at Japanese MNC 🌞
+- 👩🏻‍💻 Marketing Executive at Japanese MNC 🌞
 - 📚 Software Engineering student at General Assembly 🌚
 - 💖 if(Anime || manga || movie || food){ 🥰 happy life}
 - 🤿 Diver and Beach lover
