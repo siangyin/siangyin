@@ -3,9 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siangyin&label=Profile%20views&color=0e75b6&style=flat" alt="siangyin" /> </p>
 
-- 🌱 I’m currently enrolled **in Software Engineering bootcamp at GA@Sg**
 
-- 📫 How to reach me **siangyin916@gmail.com**
+- 🎯 Aspiring Front-End Developer 
+- 🇸🇬 Living in Singapore 
+- 🇲🇾 Grew up in Malaysia 
+- 🏫 Went to college for Tourism & Hospitality Management and Marketing & Advertising Design
+- 👩🏻‍💻 Currently working as Makerting Exeecutive at Japanese MNC.👩🏻‍💻
+- 📚 learning Software Engineering **currently pursuing SEI bootcamp at GA@Sg**
+- 💖 if(Anime || manga || movie || food){ 🥰 happy life}
+- 🤿 Diver and Beach lover
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
