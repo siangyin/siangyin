@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm SiangYin</h1>
-<h3 align="center">🎯 Aspiring Front-End Developer </h3>
+<h3 align="center">UI Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siangyin&label=Profile%20views&color=0e75b6&style=flat&theme=buefy" alt="siangyin" /> </p>
 
 
 - 🇸🇬 Living in Singapore 
 - 🇲🇾 Grew up in Malaysia 
-- 🏫 Went to college for Marketing & Advertising Design
-- 👩🏻‍💻 Marketing Executive at Japanese MNC 🌞
-- 📚 Software Engineering student at General Assembly 🌚
 - 💖 if(Anime || manga || movie || food){ 🥰 happy life}
 - 🤿 Diver and Beach lover
 
